@@ -3,3 +3,4 @@ function addThis(big, small) {
     console.log(up);
 }
 
+addThis(143, 45);
